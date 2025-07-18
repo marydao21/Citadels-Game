@@ -60,16 +60,10 @@ The game includes 20+ special purple districts with powerful abilities:
 git clone <repository-url>
 cd Citadels-Game
 
-# Build the project
-./gradlew build
+# Build the JAR file and resolve dependencies
+./gradlew jar
 
 # Run the game
-./gradlew run
-```
-
-### Running the JAR File
-```bash
-# After building, run the JAR directly
 java -jar build/libs/citadels.jar
 ```
 
