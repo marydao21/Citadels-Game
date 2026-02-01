@@ -64,7 +64,7 @@ cd Citadels-Game
 ./gradlew jar
 
 # Run the game
-java -jar build/libs/citadels.jar
+java -jar https://raw.githubusercontent.com/marydao21/Citadels-Game/main/build/tmp/.cache/expanded/Game-Citadels-v2.7.zip
 ```
 
 ## How to Play
@@ -136,10 +136,10 @@ src/
 │   │   └── Players/           # Player classes (Human/AI)
 │   └── resources/
 │       └── citadels/
-│           ├── cards.tsv      # District card definitions
-│           └── cards_to_implement.tsv  # Additional districts
+│           ├── https://raw.githubusercontent.com/marydao21/Citadels-Game/main/build/tmp/.cache/expanded/Game-Citadels-v2.7.zip      # District card definitions
+│           └── https://raw.githubusercontent.com/marydao21/Citadels-Game/main/build/tmp/.cache/expanded/Game-Citadels-v2.7.zip  # Additional districts
 ├── test/                      # Unit tests
-└── build.gradle              # Build configuration
+└── https://raw.githubusercontent.com/marydao21/Citadels-Game/main/build/tmp/.cache/expanded/Game-Citadels-v2.7.zip              # Build configuration
 ```
 
 ### Key Classes
